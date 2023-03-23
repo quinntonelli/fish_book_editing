@@ -24,7 +24,7 @@ Lizardfishes,Synodontidae,Sand lizardfish,Saurida dermatogenys,Occasional,Reef a
 Lizardfishes,Synodontidae,Gracile lizardfish,Saurida gracilis,Common,Reef associated/sand & rubble
 Lizardfishes,Synodontidae,Blackblotch lizardfish,Saurida jaculum,Occasional,Reef associated/sand & rubble
 Lizardfishes,Synodontidae,Variegated lizardfish,Synodus variegatus,Common,Reef associated/sand & rubble
-Milkfish,Chanidae,Milkfish,Chanos chanos,Uncommon, Along reef edges and sand flats
+Milkfish,Chanidae,Milkfish,Chanos chanos,Uncommon,Along reef edges and sand flats
 Silversides,Atherinidae,Hardyhead silverside,Atherinomorus lacunosus,Occasional,Shallow water near reef edges
 Anchovies,Engraulidae,Indian anchovy,Stolephorus indicus,Occasional,Shallow water near reef edges
 Needlefishes,Belonidae,Keeltail needlefish,Platybelone argalus,Occasional,Near water's surface above reefs and open water
@@ -101,7 +101,7 @@ Mojarras,Gerreidae,Slenderspine mojarra,Gerres acinaces,Occasional,Sand/rubble a
 Mojarras,Gerreidae,Blacktip mojarra,Gerres oyena,Occasional,Sand/rubble adjacent to coral reef
 Remoras,Echeneidae,Sharksucker,Echeneis naucrates,Occasional,Associated with larger fish along reef edge and drop off.
 Remoras,Echeneidae,Remora,Remora remora,Occasional,Associated with larger fish along reef edge and drop off.
-Dolphinfish,Coryphaenidae,Common dolphinfish,Coryphaena hippurus,Uncommon, In open water swimming past reefs
+Dolphinfish,Coryphaenidae,Common dolphinfish,Coryphaena hippurus,Uncommon,In open water swimming past reefs
 Jacks and Trevallys,Carangidae,Yellow-dotted trevally,Carangoides fulvoguttatus,Occasional,Reef edge/drop offs
 Jacks and Trevallys,Carangidae,Barcheek trevally,Carangoides plagiotaenia,Occasional,Reef edge/drop offs
 Jacks and Trevallys,Carangidae,Bluefin trevally,Caranx melampygus,Occasional,Reef edge/drop offs
@@ -124,13 +124,13 @@ Snappers,Lutjanidae,Onespot snapper,Lutjanus monostigma,Occasional,Reef edge/dro
 Snappers,Lutjanidae,Blubberlip snapper,Lutjanus rivulatus,Occasional,Reef edge/drop offs
 Snappers,Lutjanidae,Brownstripe snapper,Lutjanus vitta,Occasional,Reef edge/drop offs
 Snappers,Lutjanidae,Black and white snapper,Macolor niger,Occasional,Reef edge/drop offs
-Fusiliers,Caesionidae,Blue and gold fusilier,Caesio caerulaurea,Occasional, Schools in water column along reef edges
-Fusiliers,Caesionidae,Lunar fusilier,Caesio lunaris,Occasional, Schools in water column along reef edges
-Fusiliers,Caesionidae,Yellow and blueback fusilier,Caesio teres,Occasional, Schools in water column along reef edges
-Fusiliers,Caesionidae,Yellowback fusilier,Caesio xanthonota,Occasional, Schools in water column along reef edges
-Fusiliers,Caesionidae,Goldband fusilier,Pterocaesio chrysozona,Occasional, Schools in water column along reef edges
-Fusiliers,Caesionidae,Banana fusilier,Pterocaesio pisang,Occasional, Schools in water column along reef edges
-Fusiliers,Caesionidae,Dark-banded fusilier,Pterocaesio tile,Occasional, Schools in water column along reef edges
+Fusiliers,Caesionidae,Blue and gold fusilier,Caesio caerulaurea,Occasional,Schools in water column along reef edges
+Fusiliers,Caesionidae,Lunar fusilier,Caesio lunaris,Occasional,Schools in water column along reef edges
+Fusiliers,Caesionidae,Yellow and blueback fusilier,Caesio teres,Occasional,Schools in water column along reef edges
+Fusiliers,Caesionidae,Yellowback fusilier,Caesio xanthonota,Occasional,Schools in water column along reef edges
+Fusiliers,Caesionidae,Goldband fusilier,Pterocaesio chrysozona,Occasional,Schools in water column along reef edges
+Fusiliers,Caesionidae,Banana fusilier,Pterocaesio pisang,Occasional,Schools in water column along reef edges
+Fusiliers,Caesionidae,Dark-banded fusilier,Pterocaesio tile,Occasional,Schools in water column along reef edges
 Sweetlips,Haemulidae,Painted sweetlips,Diagramma pictum,Occasional,"Reef associated, near corals and along drop offs"
 Sweetlips,Haemulidae,Giant rubberlip,Plectorhinchus albovittatus,Occasional,"Reef associated, near corals and along drop offs"
 Sweetlips,Haemulidae,Lemon sweetlip,Plectorhinchus flavomaculatus,Occasional,"Reef associated, near corals and along drop offs"
